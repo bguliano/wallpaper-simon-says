@@ -3,11 +3,11 @@
 A simple python script to play the game simon says on your Windows desktop. It works by modifying the wallpaper many times in order to achieve a game-like experience.
 
 ### To run:
-Download the source code and execute [```wallpaper_simon_says.py```](wallpaper_simon_says/wallpaper_simon_says.py) with Python 3.6 and above
+Download the source code and execute [`wallpaper_simon_says.py`](wallpaper_simon_says/wallpaper_simon_says.py) with Python 3.6 and above
 
 ### Requirements:
 - Make sure the .py file is in the same folder along with the .jpg files for it to work correctly.
-- Install the python package ```mouse``` before running using ```pip install mouse```
+- Install the python package [`mouse`](https://pypi.org/project/mouse/) before running using `pip install mouse`
 
 ### Demo:
 
